@@ -1,8 +1,4 @@
 # tedious-connection-pool
-[![Dependency Status](https://david-dm.org/tediousjs/tedious-connection-pool.svg)](https://david-dm.org/tediousjs/tedious-connection-pool)
-[![npm version](https://badge.fury.io/js/tedious-connection-pool.svg)](https://badge.fury.io/js/tedious-connection-pool)
-[![Build status](https://ci.appveyor.com/api/projects/status/jnurb48ao1wrbgbr?svg=true)](https://ci.appveyor.com/project/ben-page/tedious-connection-pool)
-
 
 A connection pool for [tedious](http://github.com/tediousjs/tedious).
 
